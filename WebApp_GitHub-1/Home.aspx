@@ -12,6 +12,9 @@
             This is a sample test application - Github-Azure
             THis is examples worked out from AZURE to Gihub publishing web app.
         </div>
+        <div>
+            Added text here to see the changes - in AZURE by pushing to GitHub
+        </div>
     </form>
 </body>
 </html>
