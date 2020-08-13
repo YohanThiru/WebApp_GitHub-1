@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             This is a sample test application - Github-Azure
+            THis is examples worked out from AZURE to Gihub publishing web app.
         </div>
     </form>
 </body>
